@@ -1,17 +1,18 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-	<channel>
-		<title>fromCapital - Info about the Hadiach</title>
-		<link>https://google.com</link>
-		<description>Some good info from capital of Cossacks Ukraine</description>
-		<category>TV & Film</category>
-		<language>ukr</language>
-		<lastBuildDate>Thu, 24 Mar 2022 13:07:18 +0000</lastBuildDate>
-		<pubDate>Mon, 18 Sep 2006 13:43:00 +0000</pubDate>
-		<item>
-			<title>Here we are</title>
-			<pubDate>Thu, 24 Mar 2022 23:11:08 +0000</pubDate>
-			<description><![CDATA[]]></description>
-			<link>https://drive.google.com/file/d/1e4rHQF6U47A2IhMC2NCAHGrq8nZS7Znf/view?usp=sharing</link>
-		</item>
-	</channel>
+<rss version="2.0" encoding="utf-8">
+<channel>
+<title>fromCapital - Info about the Hadiach</title>
+<link>https://google.com</link>
+<description>Some good info from capital of Cossacks Ukraine</description>
+<category>TV Film</category>
+<language>ukr</language>
+<lastBuildDate>Thu, 24 Mar 2022 13:07:18 +0000</lastBuildDate>
+<pubDate>Mon, 18 Sep 2006 13:43:00 +0000</pubDate>
+<item>
+<guid></guid>
+<title>Here we are</title>
+<pubDate>Thu, 24 Mar 2022 23:11:08 +0000</pubDate>
+<description><![CDATA[]]></description>
+<link>https://drive.google.com/file/d/1e4rHQF6U47A2IhMC2NCAHGrq8nZS7Znf/view?usp=sharing</link>
+</item>
+</channel>
 </rss>

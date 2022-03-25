@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-<channel>
-<atom:link href="https://raw.githubusercontent.com/blypivets/storage/main/rss-example.xml" rel="self" type="application/rss+xml" />
-<title>fromCapital - Info about the Hadiach</title>
-<link>https://google.com</link>
-<description>Some good info from capital of Cossacks Ukraine</description>
-<category>TV Film</category>
-<language>ukr</language>
-<lastBuildDate>Sat, 07 Sep 2002 00:00:01 GMT</lastBuildDate>
-<pubDate>Sat, 07 Sep 2002 00:00:01 GMT</pubDate>
-<item>
-<guid isPermaLink="false">item1</guid>
-<title>Here we are</title>
-<pubDate>Sat, 07 Sep 2002 00:00:01 GMT</pubDate>
-<description><![CDATA[]]></description>
-<atom:link href="https://github.com/blypivets/storage/blob/main/Dua+Lipa+Levitating+Featuring+DaBaby+Official+Music+Video.mp3?raw=true" type="audio/mpeg" />
-</item>
-</channel>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>fromCapital - Info about the Hadiach</title>
+    <link>https://google.com</link>
+    <description>Some good info from capital of Cossacks Ukraine </description>
+    <category>TV & Film</category>
+    <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
+    <language>ukr</language>
+    <lastBuildDate>Sat, 07 Sep 2002 00:00:01 GMT</lastBuildDate>
+    <pubDate>Sat, 07 Sep 2002 00:00:01 GMT</pubDate>
+    <item>
+      <guid isPermaLink="false">item1</guid>
+      <title>Here we are</title>
+      <pubDate>Sat, 07 Sep 2002 00:00:01 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/blypivets/storage/blob/main/Dua+Lipa+Levitating+Featuring+DaBaby+Official+Music+Video.mp3?raw=true" length="27476639" type="audio/mpeg"/>
+    </item>
+  </channel>
 </rss>
